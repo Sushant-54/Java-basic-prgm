@@ -1,5 +1,3 @@
-package switch_statment;
-
 import java.util.Scanner;
 
 public class One_hundred_numbernames {
