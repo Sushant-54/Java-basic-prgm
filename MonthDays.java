@@ -1,5 +1,3 @@
-package Switch_statment;
-
 import java.util.Scanner;
 
 public class MonthDays {
