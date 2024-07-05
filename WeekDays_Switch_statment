@@ -30,6 +30,7 @@ public class weekDays {
 			break;
 		case 7:
 			System.out.println("it's Sunday");
+			break;
 		default:
 			break;
 		}
